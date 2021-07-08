@@ -1,7 +1,7 @@
 # employees-v1
-Simple JSON server for training purposes. You can access more information about the API here:
-https://my-json-server.typicode.com/pjw6193/employees-v1
-HTTP operations like POST, PUT, and DELETE do not alter the underlying data.
+Simple JSON server for training purposes. You can access more information about the API here: https://my-json-server.typicode.com/pjw6193/employees-v1
+
+**Note: HTTP operations like POST, PUT, and DELETE do not alter the underlying data.**
 
 GET https://my-json-server.typicode.com/pjw6193/employees-v1/employees
   - returns all employee (total of 3)
