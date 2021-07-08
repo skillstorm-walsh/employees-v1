@@ -1,0 +1,37 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Dan Pickles",
+      "title": "Technical Architect",
+      "salary": 120000,
+      "highest_degree": {
+        "college": "Harvard",
+        "major": "Computer Science",
+        "gpa": 4.0
+      }
+    },
+    {
+      "id": 2,
+      "name": "Randolph Scott",
+      "title": "Senior Software Engineer",
+      "salary": 90000,
+      "highest_degree": {
+        "college": "Princeton",
+        "major": "Computer Engineering",
+        "gpa": 3.8
+      }
+    },
+    {
+      "id": 3,
+      "name": "Howard Johnson",
+      "title": "Software Engineer",
+      "salary": 70000,
+      "highest_degree": {
+        "college": "Yale",
+        "major": "Computer Science",
+        "gpa": 3.5
+      }
+    }
+  ]
+}
