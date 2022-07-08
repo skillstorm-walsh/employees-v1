@@ -32,6 +32,17 @@
         "major": "Computer Science",
         "gpa": 3.5
       }
+    }, 
+    {
+      "id": 4,
+      "name": "Brad Johnson",
+      "title": "Software Engineer",
+      "salary": 70000,
+      "highest_degree": {
+        "college": "Yale",
+        "major": "Computer Science",
+        "gpa": 3.5
+      }
     }
   ]
 }
